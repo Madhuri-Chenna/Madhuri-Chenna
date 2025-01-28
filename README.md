@@ -8,7 +8,7 @@ Hey there! I’m Madhuri, I’m a Computer Applications graduate from Alphores W
 
 •	__Frameworks__: Bootstrap
 
-•	__Databases__: MySQL, SQLite
+•	__Databases__: SQL
 
 •	__Developer Tools__: Git/GitHub, VS Code
 
