@@ -4,7 +4,7 @@
 Hey there! I’m Madhuri, I’m a Computer Applications graduate from Alphores Women’s Degree & PG College with a passion for coding and building web applications. I’m excited to continue learning and growing in the tech field. This README is my playground to showcase my journey, skills and aspirations. Let’s dive in!
 
 ## Skills & Interests:
-• __Programming Languages__: HTML, CSS, JavaScript, Python (basic knowledge)
+• __Programming Languages__: HTML, CSS, JavaScript, Python 
 
 •	__Frameworks__: Bootstrap
 
