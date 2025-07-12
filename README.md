@@ -25,7 +25,7 @@ Hey there! I’m Madhuri, I’m a Computer Applications graduate from Alphores W
 •	__Cat & Bulb__: An interactive app where users toggle between a cat and a lightbulb image, developed with HTML, CSS, and JavaScript for dynamic content.
                   [Project Link](https://github.com/Madhuri-Chenna/CAT-AND-BULB)
 
-•	__Library Manageent System__:A command-line based Library Management System built using **Python** and **SQLite**. This project allows users to manage books with basic functionalities such as adding,                                           [viewing, searching, updating, and deleting book records.[Project Link](https://github.com/Madhuri-Chenna/library-management-system
+•	__Library Manageent System__:A command-line based Library Management System built using **Python** and **SQLite**. This project allows users to manage books with basic functionalities such as adding,                                           [viewing, searching, updating, and deleting book records.[Project Link](https://github.com/Madhuri-Chenna/library-management-system)
 
 ## Connect With Me: 
 •	__Email__: chennamadhuri12@gmail.com
