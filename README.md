@@ -4,13 +4,16 @@
 Hey there! I’m Madhuri, I’m a Computer Applications graduate from Alphores Women’s Degree & PG College with a passion for coding and building web applications. I’m excited to continue learning and growing in the tech field. This README is my playground to showcase my journey, skills and aspirations. Let’s dive in!
 
 ## Skills & Interests:
-• __Programming Languages__: HTML, CSS, JavaScript, Python 
+• __Frontend__: HTML, CSS, JavaScript, Bootstrap 
 
-•	__Frameworks__: Bootstrap
+•	__Backend__: Python, Node.js, Express.js
 
-•	__Databases__: SQL, SQLite
+•	__Databases__: SQL, MySQL
 
 •	__Developer Tools__: Git/GitHub, VS Code
+
+•    __Relevant Skills__: Database Management System(DBMS), JSON (Basic Understanding)
+
 
 ## Projects: 
 •	__Food Munch Website__: A fully functional food ordering website using HTML, CSS, and Bootstrap for responsive design. Users can browse various list of food items, offers and other information. The project 
