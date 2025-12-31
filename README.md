@@ -1,7 +1,10 @@
 # Hi! I’m MADHURI CHENNA
 
 ## About me
-Hey there! I’m Madhuri, I’m a Computer Applications graduate from Alphores Women’s Degree & PG College with a passion for coding and building web applications. I’m excited to continue learning and growing in the tech field. This README is my playground to showcase my journey, skills and aspirations. Let’s dive in!
+I’m Madhuri, a Computer Applications graduate from Alphores Women’s Degree & PG College, with a strong passion for coding and building web applications.  
+I am a motivated fresher who enjoys learning new technologies and working on real-world projects.
+
+This README is my playground to showcase my journey, skills, projects, and aspirations as I grow in the tech field 🚀
 
 ## Skills & Interests:
 • __Frontend__: HTML, CSS, JavaScript, Bootstrap 
@@ -37,5 +40,6 @@ Hey there! I’m Madhuri, I’m a Computer Applications graduate from Alphores W
 
 •	__GitHub__: https://www.github.com/Madhuri-Chenna
 ## Feedback Welcome: 
-I’m always looking for new challenges and opportunities to enhance my skills. Feel free to explore my repositories and connect with me!   
+I’m always open to feedback, new challenges, and learning opportunities.  
+Feel free to explore my repositories and connect with me!  
 
