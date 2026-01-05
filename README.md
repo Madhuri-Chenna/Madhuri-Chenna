@@ -20,7 +20,7 @@ This README is my playground to showcase my journey, skills, projects, and aspir
 
 ## Projects:
 •   __Authentication System__: This is a full-stack **Authentication System** where users can **register**, **login**, and access a **protected dashboard**.  
-     It demonstrates backend APIs, secure authentication using **JWT**, database integration with **MySQL**, and frontend form handling with **HTML, JavaScript, and Bootstrap**.                                 (       [Project Link](https://github.com/Madhuri-Chenna/Authentication-system).
+     It demonstrates backend APIs, secure authentication using **JWT**, database integration with **MySQL**, and frontend form handling with **HTML, JavaScript, and Bootstrap**.[Project Link](https://github.com/Madhuri-Chenna/Authentication-system).
 
 •	__Library Manageent System__:A command-line based Library Management System built using **Python** and **SQLite**. This project allows users to manage books with basic functionalities such as adding,              [viewing, searching, updating, and deleting book records.[Project Link](https://github.com/Madhuri-Chenna/library-management-system)
   
